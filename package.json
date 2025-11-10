@@ -19,8 +19,8 @@
     "Login"
   ],
   "author": "Cody Van De Mark / Austin Willoughby",
-  "license": "Apache 2.0",
-    "dependencies": {
+  "license": "Apache-2.0",
+  "dependencies": {
     "bcrypt": "^6.0.0",
     "compression": "^1.8.1",
     "connect-redis": "^9.0.0",
